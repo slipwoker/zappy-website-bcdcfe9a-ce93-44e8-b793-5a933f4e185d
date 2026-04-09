@@ -1,6 +1,4 @@
-# סמי טריגוב טכנאי מיקס ומאסטרינג — Generative Engine Optimization Map
-
-> A professional mixing and mastering engineer offering audio post-production services. The business revolves around crafting polished, radio-ready sound for musicians and artists, combining technical expertise with a deep passion for music. The brand identity likely carries a creative, sonic, and professional vibe rooted in the music production world.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,21 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About סמי טריגוב טכנאי מיקס ומאסטרינג
-A professional mixing and mastering engineer offering audio post-production services. The business revolves around crafting polished, radio-ready sound for musicians and artists, combining technical expertise with a deep passion for music. The brand identity likely carries a creative, sonic, and professional vibe rooted in the music production world.
-
-## Services/Products
-- מיקס
-- מאסטרינג
-
-## Target Audience
-- מוזיקאים עצמאיים
-- חברות תקליטים
-- די ג'ייז מתחילים
-
-## Industry
-הפקה מוזיקלית ואודיו
-
+## About Business
 ---
 
 # Additional Resources
